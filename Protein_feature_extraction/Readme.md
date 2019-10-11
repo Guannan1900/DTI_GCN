@@ -15,4 +15,5 @@ Input file = kegg.fasta
 Output files will be feature files extracted from input file
 
 The command will be = 'python Protein_features_extraction.py -inputfile kegg.fasta'
+
 Python3.6.4 are required to run this code.
